@@ -37,7 +37,7 @@ class _BallPageState extends State<BallPage> {
       backgroundColor: Colors.blue,
       appBar: AppBar(
         backgroundColor: Colors.blue[900],
-        title: Title(color: Colors.white, child: Text('Ask Me Anyhting')),
+        title: Title(color: Colors.white, child: Text('Ask Me Anything')),
 
       ),
       body: Center(
